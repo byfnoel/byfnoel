@@ -3,10 +3,10 @@
 ### About Me
 <h1><bold> Fullstack Software Engineer </bold></h1>
 
-- _Announcement_: Building my startup at 3linic. Visit www.3linic.com.
+- _Announcement_: Building my startup at 3Linic. Visit www.3linic.com.
 
 - 🌱 I’m a Computer Science Student interest in full-stack web development, algorithms, and data structures.
-- 🎓 **Tech Stack I use**: `Python` , `JavaScript` , `React` , `HTML` , `CSS` , `Node`, `Express`, `SQL`.
+- 🎓 **Tech Stack I use**: `Python` , `JavaScript (React, Node, Express)` , `HTML` , `CSS` , `SQL`.
 
 - 📫 Reach me: [Instagram](https://instagram.com/byfnoel/), [Twitter](https://www.twitter.com/byfnoel/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
 
