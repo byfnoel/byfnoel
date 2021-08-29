@@ -1,13 +1,11 @@
-<h2> Francico Noel | 💻 Software Engineer | 🌏 Florida, USA </h2>
+<h1 align="center">Francisco Noel</h1>
+<h4 align="center">I am a Software Engineer (backend) focusing on building web applications </h4>
+<br>
 
-### About Me
-<h1><bold> Fullstack Software Engineer </bold></h1>
-
-- _Announcement_: Building my startup at 3Linic. Visit www.3linic.com.
-
-- 🌱 I’m a Computer Science Student interest in full-stack web development, algorithms, and data structures.
-- 🎓 **Tech Stack I use**: `Python` , `JavaScript (React, Node, Express)` , `HTML` , `CSS` , `SQL`.
-
+- 💻 I'm the Founder and Software Engineer at [3Linic](https://3linic.com). Building financial software tools.
+- 🎓 Junior, Florida International University '23. BA in Computer Science.
+- 🌱 I'm a hobbyist VIM user. I like data structures, algorithms, optimization, and configuration.
+- 💻 My website and blog - https://francisconoel.com.
 - 📫 Reach me: [Instagram](https://instagram.com/byfnoel/), [Twitter](https://www.twitter.com/byfnoel/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
 
 ### STATS
