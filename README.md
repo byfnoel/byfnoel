@@ -1,5 +1,5 @@
 <h1 align="center">Francisco Noel</h1>
-<h4 align="center">I am a Software Engineer (backend) focusing on building web applications </h4>
+<h4 align="center">I am a Software Engineer focusing on building web applications </h4>
 <br>
 
 - 💻 I'm the Founder and Software Engineer at [3Linic](https://3linic.com). Building financial software tools.
