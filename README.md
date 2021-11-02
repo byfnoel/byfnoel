@@ -2,10 +2,9 @@
 <h4 align="center">I am a Software Engineer focusing on building web applications </h4>
 <br>
 
-- 💻 I'm the Founder and Software Engineer at [3Linic](https://3linic.com). Building financial software tools.
-- 🎓 Junior, Florida International University '23. BA in Computer Science.
-- 🌱 I'm a hobbyist VIM user. I like data structures, algorithms, optimization, and configuration.
-- 💻 My website and blog - https://francisconoel.com.
+- 💻 Software Engineer interested in distributed systems, algorithmic design, and operating systems.
+- 🎓 Computer Science @ Florida International University.
+- 💻 My website - https://francisconoel.com.
 - 📫 Reach me: [Instagram](https://instagram.com/byfnoel/), [Twitter](https://www.twitter.com/byfnoel/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
 
 ### STATS
