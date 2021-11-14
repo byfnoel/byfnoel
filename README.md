@@ -1,7 +1,6 @@
 <h1 align="center"> Francisco Noel </h1>
 <h4 align="center"> I am a Software Engineer and a CS Major </h4>
 <br>
-
 - 💻 Software Engineer interested in distributed systems, algorithmic design, and operating systems.
 - 🎓 Computer Science @ Florida International University.
 - 💻 My website - https://francisconoel.com.
