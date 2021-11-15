@@ -1,5 +1,5 @@
 <h1 align="center"> Francisco Noel </h1>
-<h4 align="center"> I am a Software Engineer and a CS Major </h4>
+<h3 align="center"> I am a Software Engineer and a CS Major </h3>
 
 <br>
 
