@@ -1,15 +1,31 @@
 <h1 align="center"> Francisco Noel </h1>
-<h3 align="center"> I am a Software Engineer and a CS Major </h3>
-
+<h3 align="center"> I am a Software Engineer interested in distributed systems, algorithmic design, and software architecture. </h3>
 <br>
 
-- 💻 Software Engineer interested in distributed systems, algorithmic design, and software architecture.
-- 🎓 Computer Science @ Florida International University.
-- 💻 My website - https://francisconoel.com.
-- 📫 Reach me: [Twitter](https://www.twitter.com/byfnoel/), [LinkedIn](https://www.linkedin.com/in/francisconoel/) and [Portfolio](https://francisconoel.com/)
+- 🎓 Computer Science @ Florida International University
+- 💻 My website - https://francisconoel.com
 
-### STATS
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=byfnoel&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
+<a><h3 align= "left"> STATS </h3></a>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byfnoel&layout=compact)
+<div align="center">
+<a href="https://github-readme-stats.vercel.app">
+<img width="49%" alt="STATS" src="https://github-readme-stats.vercel.app/api?username=byfnoel&theme=tokyonight&include_all_commits=true&show_icons=true&custom_title=GitHub+Stats"/>
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com">
+<img width="49%" alt="STREAK STATS" src="https://github-readme-streak-stats.herokuapp.com/?user=byfnoel&theme=tokyonight"/>
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=byfnoel&theme=tokyonight&row=1"/>
+</a>
+</div>
 
+<br/>
+
+<!-- MY CONNECTIONS -->
+<h3 align= "left"> Reach me! </h3>
+<p align="left">
+<a href="https://twitter.com/byfnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/twitter.svg" alt="byfnoel" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/francisconoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/leetcode.svg" alt="francisconoel" height="30" width="40" /></a>
+<a href="https://www.hackerank.com/francisconoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/hackerrank.svg" alt="francisconoel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francisconoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" alt="francisconoel" height="30" width="40" /></a>  
+</p>  
