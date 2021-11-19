@@ -19,6 +19,11 @@
 </a>
 </div>
 
+</br>
+
+<a><h3 align= "left"> Contribution Activity </h3></a>
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=byfnoel&theme=github)
+
 <br/>
 
 <!-- MY CONNECTIONS -->
