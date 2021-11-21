@@ -5,7 +5,9 @@
 - 🎓 Computer Science @ Florida International University
 - 💻 My website - https://francisconoel.com
 
-<a><h3 align= "left"> STATS </h3></a>
+<a>
+  <h3 align= "left"> STATS </h3>
+</a>
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app">
@@ -21,7 +23,10 @@
 
 </br>
 
-<a><h3 align= "left"> Contribution Activity </h3></a>
+<a>
+  <h3 align= "left"> Contribution Activity </h3>
+</a>
+
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=byfnoel&theme=github)
 
 <br/>
