@@ -5,6 +5,7 @@
 - 🎓 Computer Science @ Florida International University
 - 💻 My website - https://francisconoel.com
 
+<!--- My Stats --->
 <a>
   <h3 align= "left"> STATS </h3>
 </a>
