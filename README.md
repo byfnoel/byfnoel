@@ -35,6 +35,7 @@
 <!-- MY CONNECTIONS -->
 <h3 align= "left"> Reach me! </h3>
 <p align="left">
+<a href=mailto:byfnoel@gmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="francisconoel" height="20" width="20" /></a>  
 <a href="https://twitter.com/byfnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/twitter.svg" alt="byfnoel" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/francisconoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/leetcode.svg" alt="francisconoel" height="30" width="40" /></a>
 <a href="https://www.hackerank.com/francisconoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/hackerrank.svg" alt="francisconoel" height="30" width="40" /></a>
