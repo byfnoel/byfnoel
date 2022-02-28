@@ -2,7 +2,7 @@
 <h3 align="center"> I am a Software Engineer interested in distributed systems, algorithmic design, and software architecture. </h3>
 <br>
 
-- 🎓 Computer Science @ Florida International University
+- 🎓 Stem @ Florida International University
 - 💻 My website - https://francisconoel.com
 
 <!--- My Stats --->
