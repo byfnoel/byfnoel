@@ -1,5 +1,5 @@
 <h1 align="center"> Francisco Noel </h1>
-<h3 align="center"> I am a Software Engineer interested in distributed systems, algorithmic design, and software architecture. </h3>
+<h3 align="center"> Software Engineer interested in distributed systems, algorithmic design, and software architecture. </h3>
 
 <br>
 
