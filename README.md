@@ -10,7 +10,7 @@
 - Software Engineer Intern @ Chevron (Summer 2022) 
 - Software Engineer @ 3linic (Dec 2020 - Sep 2021)
 - Software Engineer Intern @ Knobull (Fall 2020)
-- Software Engineer Intern @ American Express (Summer 2019)
+- Service Assurance Engineer Intern @ American Express (Summer 2019)
 
 
 
