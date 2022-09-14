@@ -7,7 +7,7 @@
   
 ## About Me
 - Computing @ Florida International University
-- Software Engineer Intern @ Chevron | Prev. American Express, startups(2x) 
+- Prev. Chevron, American Express, startups(2x) 
 
 
 
