@@ -5,7 +5,7 @@
   <a href="https://francisconoel.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
 ## 👨🏻‍💻 &nbsp;About Me
-- Computing @ Florida International University
+- Student at Florida International University
 - Prev. Chevron, American Express, startups(2x) 
 
 <!-- ### 🛠 &nbsp;Tech Stack
