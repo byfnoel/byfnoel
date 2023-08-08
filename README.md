@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 - Student at Florida International University
-- Prev. Chevron, American Express, startups(2x) 
+- Prev. Chevron, American Express, etc ...
 
 <!-- ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
