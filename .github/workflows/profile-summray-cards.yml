@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: byfnoel/byfnoel@release
+      - uses: byfnoel/byfnoel
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_README_TOKEN }}
         with:
