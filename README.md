@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**byfnoel/byfnoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Francisco Noel. I love building secure and fast software systems.
 
-Here are some ideas to get you started:
+- 🔭 I like contributing to the rust ecosystem.
+- 🌱 My interests - Systems Programming, Backend Development, Infrastructure.
+- 📫 How to reach me: [x/twitter](https://www.x.com/byfnoel) or [LinkedIn](https://www.linkedin.com/in/francisconoel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💼 Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+## 📈 Github Stats
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byfnoel&theme=2077" alt="Profile Details" align="left" width="625" height="200">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=byfnoel&theme=2077" alt="Language by commit" align="right" height="-19110" width="325">
