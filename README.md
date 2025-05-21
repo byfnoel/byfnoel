@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 My name is Francisco Noel. I love building secure and fast software systems.
 
 - 🔭 I like contributing to the rust ecosystem.
@@ -15,7 +16,5 @@ My name is Francisco Noel. I love building secure and fast software systems.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-
 ## 📈 Github Stats
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byfnoel&theme=aura" alt="Profile Details" align="left" width="520" height="-1000">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=byfnoel&theme=aura" alt="Language by commit" align="right" width="250" height="-1000">
+![profile card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byfnoel&theme=aura)
