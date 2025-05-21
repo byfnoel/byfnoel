@@ -18,4 +18,4 @@ My name is Francisco Noel. I love building secure and fast software systems.
 
 ## 📈 Github Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byfnoel&theme=aura" alt="Profile Details" align="left" width="520" height="200">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=byfnoel&theme=aura" alt="Language by commit" align="right" height="-1000" width="300">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=byfnoel&theme=aura" alt="Language by commit" align="right" width="250" height="-1000">
