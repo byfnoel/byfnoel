@@ -5,7 +5,7 @@ My name is Francisco Noel. I love building secure and fast software systems.
 
 - 🔭 I like contributing to the rust ecosystem.
 - 🌱 My interests - Systems Programming, Backend Systems, Infrastructure.
-- 📫 How to reach me: [x/twitter](https://www.x.com/byfnoel) or [LinkedIn](https://www.linkedin.com/in/francisconoel)
+- 📫 How to reach me: [x (twitter)](https://www.x.com/byfnoel) or [LinkedIn](https://www.linkedin.com/in/francisconoel)
 
 
 ## 💼 Skills
