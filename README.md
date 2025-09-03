@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-My name is Francisco Noel. I love building secure and fast software systems.
+My name is Francisco Noel. I am a computer science student at University of Massachusetts Boston.
 
 - 🔭 I like contributing to the rust ecosystem.
 - 🌱 My interests - Systems Programming, Backend Systems, Infrastructure.
