@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 
-My name is Francisco Noel. I am a computer science student at University of Massachusetts Boston.
+My name is Francisco Noel. I am a computer science student at the University of Massachusetts Boston.
 
 - 🔭 I like contributing to the rust ecosystem.
-- 🌱 My interests - Systems Programming, Backend Systems, Infrastructure.
+- 🌱 My interests - Backend Systems, Infrastructure, and Platform Engineering.
 - 📫 How to reach me: [x (twitter)](https://www.x.com/byfnoel) or [LinkedIn](https://www.linkedin.com/in/francisconoel)
 
 
